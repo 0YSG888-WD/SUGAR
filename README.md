@@ -28,6 +28,7 @@
 - Request listings from users pulled from database entries.
 - Bold, eyecatching overlapping design presents a start contrast to the way information is typically displayed on websites. 
 - Simple background perspective skew based on mouseover increases user experience - sugar molecules appear to be moving.
+- Perspective skew chosen based on content of wallpaper, not randomly decided and incorporated for the sake of aesthetics.
 
 <hr>
 
